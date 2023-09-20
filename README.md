@@ -1,16 +1,7 @@
 # shoping_app
 
 A new Flutter project.
+It’s an e-commerce UI concept in Flutter for Android and iOS with over 20 screen variations.
 
-## Getting Started
+![image](https://github.com/abdelhameed-elsayed/shoping_app/assets/105364430/4cf4ea13-f255-4f86-8068-84b127e0da9b)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
